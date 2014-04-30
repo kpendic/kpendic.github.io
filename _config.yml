@@ -1,6 +1,7 @@
 baseurl: /
 permalink: pretty
-markdown: rdiscount
+markdown: redcarpet
+pygments: true
 prose:
   rooturl: '_posts'
   siteurl: 'http://prose.github.io/starter/'
