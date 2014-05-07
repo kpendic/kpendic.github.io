@@ -1,10 +1,7 @@
-#baseurl: /
 permalink: pretty
 markdown: redcarpet
 pygments: true
 prose:
-#  rooturl: '_posts'
-  media: 'media'
   metadata:
     _posts:
       - name: "category"
